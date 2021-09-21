@@ -1,0 +1,20 @@
+body {
+  width: 770px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.miEstilo .webix_hcell {
+  background: #964321;
+  color: white;
+}
+
+.miEstilo .webix_column {
+  background: #dedea9;
+}
+
+.miEstilo .webix_select_mark {
+  background-color: #77825b;
+  color: white;
+}
